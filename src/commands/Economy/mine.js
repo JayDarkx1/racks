@@ -8,7 +8,7 @@ const MINE_COOLDOWN =  5 * 1000;
 const BASE_MIN_REWARD = 400;
 const BASE_MAX_REWARD = 12000;
 const PICKAXE_MULTIPLIER = 1.2;
-const DIAMOND_PICKAXE_MULTIPLIER = 2.0;
+const DIAMOND_PICKAXE_MULTIPLIER = 2.5;
 
 const MINE_LOCATIONS = [
     "abandoned gold mine",
