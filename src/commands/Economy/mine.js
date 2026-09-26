@@ -6,7 +6,7 @@ import { InteractionHelper } from '../../utils/interactionHelper.js';
 
 const MINE_COOLDOWN =  1 * 1000;
 const BASE_MIN_REWARD = 400;
-const BASE_MAX_REWARD = 12000000;
+const BASE_MAX_REWARD = 120000;
 const PICKAXE_MULTIPLIER = 0.5;
 const DIAMOND_PICKAXE_MULTIPLIER = 2.0;
 
