@@ -11,11 +11,11 @@ const PICKAXE_MULTIPLIER = 0.5;
 const DIAMOND_PICKAXE_MULTIPLIER = 2.0;
 
 const MINE_LOCATIONS = [
-    "abandoned gold mine",
-    "dark, damp cave",
-    "backyard rock quarry",
-    "volcanic obsidian vent",
-    "deep-sea mineral trench",
+    "maki pussy",
+    "jaden's asshole",
+    "derek dildo",
+    "nami",
+    "onmi-man cheeks",
 ];
 
 export default {
