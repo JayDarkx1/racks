@@ -5,7 +5,7 @@ export const shopItems = [
         price: 5000,
         description: 'Allows 1 extra use of the `/work` command.',
         type: 'consumable',
-        maxQuantity: 5,
+        maxQuantity: 30,
 cooldown: 86400000,
         effect: {
             type: 'command_boost',
