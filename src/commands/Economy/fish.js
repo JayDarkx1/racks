@@ -6,7 +6,7 @@ import { InteractionHelper } from '../../utils/interactionHelper.js';
 
 const FISH_COOLDOWN = 10 * 1000; 
 const BASE_MIN_REWARD = 300;
-const BASE_MAX_REWARD = 241516;
+const BASE_MAX_REWARD = 111516;
 const FISHING_ROD_MULTIPLIER = 1.5;
 
 const FISH_TYPES = [
